@@ -1,5 +1,5 @@
 # Ecobook 
-<img src="https://img.shields.io/badge/language-Swift-orange.svg?style=flat"/> <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat"/>
+<img src="https://img.shields.io/badge/language-Swift-orange.svg?style=flat"/> <img src="https://img.shields.io/badge/Tech-AR%20ML%20OCR%20IOS%20FIREBASE-green.svg?style=flat"/> <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat"/>
 
 A native ios application that helps users learn about and reduce their residential energy consumption. (The app does not offer an english translation).
 
@@ -26,6 +26,7 @@ Descarga todo dentro de '__MACOSX/ProyectoEnergias', abre la carpeta completa en
 ## Built With - Herramientas utilizadas
 
 * [Swift](https://swift.org/documentation/) - Programming language / lenguaje de programación
+* [Firebase](https://firebase.google.com/) - DB / Base de datos
 
 External libraries/librerías externas: 
 
