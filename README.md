@@ -42,6 +42,6 @@ External libraries/librerías externas:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Este projecto está protegido bajo la licencia MIT- para ver más detalles revisar [LICENSE.md](LICENSE.md).
+Este projecto está protegido bajo la licencia MIT- para ver más detalles revisar [LICENSE](LICENSE).
