@@ -40,7 +40,7 @@ External libraries/librerías externas:
 * **Julián Herrera** - [JulianHerreraH](https://github.com/JulianHerreraH)
 * **Ayax Casarrubias** - [Ayaxtron](https://github.com/Ayaxtron)
 
-## License
+## License - Licencia
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
