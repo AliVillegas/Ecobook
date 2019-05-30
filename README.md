@@ -9,7 +9,7 @@ Una aplicación nativa para ios que ayuda a los usuarios a aprender sobre su con
 ![Login](https://raw.githubusercontent.com/AliVillegas/Ecobook/master/WorkingAppImages/Login.png) 
 ![Home](https://raw.githubusercontent.com/AliVillegas/Ecobook/master/WorkingAppImages/LearnHome1.png)
 ![Graph](https://raw.githubusercontent.com/AliVillegas/Ecobook/master/WorkingAppImages/DevicesGraph.png)
-![AR](https://raw.githubusercontent.com/AliVillegas/Ecobook/master/WorkingAppImages/bulbAR.png)
+![AR](https://raw.githubusercontent.com/AliVillegas/Ecobook/master/WorkingAppImages/bulbAR.PNG)
 ### Prerequisites - Requisitos
 
 To try these project you need the latest version of Xcode on a Mac computer.
