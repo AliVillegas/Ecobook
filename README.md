@@ -6,8 +6,9 @@ A native ios application that helps users learn about and reduce their residenti
 Una aplicación nativa para ios que ayuda a los usuarios a aprender sobre su consumo energético residencial.
 
 ### Preview 
-<img src="WorkingAppImages/Login.png" width="185" height="300" alt="Login"> <img src="WorkingAppImages/LearnHome1.png" width="185" height="300"  alt="Home">
-<img src="WorkingAppImages/finalGraph.png" width="185" height="300" alt="Graph"> <img src="WorkingAppImages/bulbAR.PNG" width="185" height="300"  alt="AR">
+<img src="WorkingAppImages/Login.png" width="225" height="340" alt="Login"> <img src="WorkingAppImages/LearnHome1.png" width="225" height="340"  alt="Home">
+
+<img src="WorkingAppImages/finalGraph.png" width="225" height="340" alt="Graph"> <img src="WorkingAppImages/bulbAR.PNG" width="225" height="340"  alt="AR">
 
 
 ### Prerequisites - Requisitos
@@ -37,6 +38,7 @@ External libraries/librerías externas:
 
 * **Ali Villegas** - *Lead programmer* - [AliVillegas](https://github.com/AliVillegas)
 * **Julián Herrera** - [JulianHerreraH](https://github.com/JulianHerreraH)
+* **Ayax Casarrubias** - [Ayaxtron](https://github.com/Ayaxtron)
 
 ## License
 
