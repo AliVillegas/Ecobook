@@ -1,5 +1,5 @@
 # Ecobook 
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat"/>
+<img src="https://img.shields.io/badge/language-Swift-orange.svg?style=flat"/> <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat"/>
 
 A native ios application that helps users learn about and reduce their residential energy consumption. (The app does not offer an english translation).
 
