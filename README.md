@@ -4,11 +4,10 @@ A native ios application that helps users learn about and reduce their residenti
 Una aplicación nativa para ios que ayuda a los usuarios a aprender sobre su consumo energético residencial.
 
 ### Preview 
-
-<img src="WorkingAppImages/Login.png" width="145" height="260" alt="Login">
-<img src="WorkingAppImages/LearnHome1.png" width="145" height="260"  alt="Home">
-<img src="WorkingAppImages/DevicesGraph.png" width="145" height="260" alt="Graph">
-<img src="WorkingAppImages/bulbAR.PNG" width="145" height="260"  alt="AR">
+![Login](https://raw.githubusercontent.com/AliVillegas/Ecobook/master/WorkingAppImages/Login.png) 
+![Home](https://raw.githubusercontent.com/AliVillegas/Ecobook/master/WorkingAppImages/LearnHome1.png)
+![Graph](https://raw.githubusercontent.com/AliVillegas/Ecobook/master/WorkingAppImages/DevicesGraph.png)
+![AR](https://raw.githubusercontent.com/AliVillegas/Ecobook/master/WorkingAppImages/bulbAR.PNG)
 
 
 ### Prerequisites - Requisitos
