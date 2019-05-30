@@ -7,7 +7,7 @@ Una aplicación nativa para ios que ayuda a los usuarios a aprender sobre su con
 
 ### Preview 
 <img src="WorkingAppImages/Login.png" width="185" height="300" alt="Login"> <img src="WorkingAppImages/LearnHome1.png" width="185" height="300"  alt="Home">
-<img src="WorkingAppImages/DevicesGraph.png" width="185" height="300" alt="Graph"> <img src="WorkingAppImages/bulbAR.PNG" width="185" height="300"  alt="AR">
+<img src="WorkingAppImages/finalGraph.png" width="185" height="300" alt="Graph"> <img src="WorkingAppImages/bulbAR.PNG" width="185" height="300"  alt="AR">
 
 
 ### Prerequisites - Requisitos
